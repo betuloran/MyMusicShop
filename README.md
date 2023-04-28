@@ -1,5 +1,8 @@
-# MyMusicShop
-I created a site that sells Musical instruments using boostrap
+
+# My Music Shop </br>
+I created a site that sells Musical instruments using boostrap.
+
+## Proje Görünümü
 
 ![Ekran görüntüsü 2023-04-28 160646](https://user-images.githubusercontent.com/116026974/235156987-2f1afad9-1f83-49a7-ae92-a7664c93b9de.png)
 
