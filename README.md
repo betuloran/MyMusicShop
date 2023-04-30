@@ -1,6 +1,5 @@
 
-# My Music Shop </br>
-Bu repo, kodluyoruz front-end patikasındaki ödevi içermektedir. HTML, CSS ve Bootstrap kullanarak bir müzik aletleri satış sayfası yaptım.
+**Bu repo, kodluyoruz front-end patikasındaki ödevi içermektedir. HTML, CSS ve Bootstrap kullanarak bir müzik aletleri satış sayfası yaptım.**
 
 ## Proje Görünümü
 
